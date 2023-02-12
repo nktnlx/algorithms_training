@@ -1,0 +1,2 @@
+My notes and code from following the Algorithms Trainings 2.0 by Yandex [video playlist](https://www.youtube.com/playlist?list=PL6Wui14DvQPySdPv5NUqV3i8sDbHkCKC5):  
+`1_complexity_testing_specials.ipynb` - Lesson 1. Comlexity, testing, special cases
