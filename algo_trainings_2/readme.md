@@ -8,3 +8,5 @@ My notes and code from following the Algorithms Trainings 2.0 by Yandex [video p
 `5_hw_1_2.ipynb` - Hometasks. Lesson 1 & Lesson 2     
 `6_prefix_sums.ipynb` - Lesson 5. Prefix sums and two pointers    
 `7_binary_search.ipynb` - Lesson 6. Binary search    
+`8_hw_3_4.ipynb` - Hometasks. Lesson 3 & Lesson 4   
+`input.txt` - input file to test Task 3,  Lesson 4, notebook 8_hw_3_4.ipynb  
