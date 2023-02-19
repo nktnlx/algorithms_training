@@ -6,4 +6,5 @@ My notes and code from following the Algorithms Trainings 2.0 by Yandex [video p
 `3_sets.ipynb` - Lesson 3. Sets   
 `4_dicts_counting_sort.ipynb` - Lesson 4. Dictionaries, Counting sort   
 `5_hw_1_2.ipynb` - Hometasks. Lesson 1 & Lesson 2     
-`6_prefix_sums.ipynb` - Lesson 5. Prefix sums and two pointers
+`6_prefix_sums.ipynb` - Lesson 5. Prefix sums and two pointers    
+`7_binary_search.ipynb` - Lesson 6. Binary search    
