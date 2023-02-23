@@ -12,4 +12,5 @@ My notes and code from following the Algorithms Trainings 2.0 by Yandex [video p
 `9_event_sorting.ipynb` - Lesson 7. Event sorting, Two pass  
 `10_trees.ipynb` - Lesson 8. Binary search tree, Tree traversal   
 `11_hw_5_6.ipynb` - Hometasks. Lesson 5 & Lesson 6    
+`12_hw_7.ipynb` - Hometasks. Lesson 7       
 `input.txt` - input file to test Task 3,  Lesson 4, notebook 8_hw_3_4.ipynb   
