@@ -5,5 +5,6 @@ My notes and code from following the Algorithms Trainings 3.0 by Yandex (Spring 
 `01_stacks.ipynb` - Lesson 1. Stacks  
 `02_queues.ipynb` - Lesson 2. Queue, Deque, Heap   
 `03_dynamic_programming.ipynb` - Lesson 3. Dynamic programming with one parameter    
+`04_dynamic_programming.ipynb` - Lesson 4. Dynamic programming with two parameters    
 `11_tasks_solutions.ipynb` - my own solutions for home tasks   
 `input.txt` - file with input for task 1 in the *11_tasks_solutions.ipynb*  
