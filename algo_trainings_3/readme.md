@@ -9,4 +9,5 @@ My notes and code from following the Algorithms Trainings 3.0 by Yandex (Spring 
 `05_graphs_depth_search.ipynb` - Lesson 5. Depth-first search traversal of graphs  
 `11_tasks_solutions.ipynb` - my own solutions for home tasks   
 `input.txt` - file with input for task 1 in the *11_tasks_solutions.ipynb*   
-`11.txt`- file with input for task 11 in the *11_tasks_solutions.ipynb*    
+`11.txt` - file with input for task 11 in the *11_tasks_solutions.ipynb*    
+`16.txt` - file with input for task 16 in the *11_tasks_solutions.ipynb*    
