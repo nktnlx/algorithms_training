@@ -15,3 +15,4 @@ My notes and code from following the Algorithms Trainings 3.0 by Yandex (Spring 
 `11.txt` - file with input for task 11 in the *11_tasks_solutions.ipynb*    
 `16.txt` - file with input for task 16 in the *11_tasks_solutions.ipynb*    
 `18.txt` - file with input for task 18 in the *11_tasks_solutions.ipynb*    
+`19.txt` - file with input for task 19 in the *11_tasks_solutions.ipynb*    
